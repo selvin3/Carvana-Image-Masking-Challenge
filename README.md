@@ -6,6 +6,3 @@ Challenge Link : https://www.kaggle.com/competitions/carvana-image-masking-chall
 
 # Output of test images
 ![output_mask](https://user-images.githubusercontent.com/61695077/215247937-b5a3452a-0128-43dd-9224-da0ea19c9a74.png)
-
-# Model Architecture
-![model_architecture](https://user-images.githubusercontent.com/61695077/215248104-61328ff3-8d8f-4384-8019-7e9d07b60e8b.png)
